@@ -30,7 +30,7 @@
     "browser-sync": "^2.26.13",
     "connect-history-api-fallback": "^1.6.0",
     "connect-logger": "^0.0.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "minimist": "^1.2.5"
   },
   "devDependencies": {
